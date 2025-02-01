@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fu5yr4i7FtYHfoungzzji/wQ//JNu9oFgfQX09KDU/BUGRtrsabwNgvF8SvHif80RPaDHqbg0+KcW1gceSMhVQ==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\UAssetAPI\\UAssetAPI\\UAssetAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takathedinosaur\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\takathedinosaur\\.nuget\\packages\\zstdsharp.port\\0.8.1\\zstdsharp.port.0.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}
